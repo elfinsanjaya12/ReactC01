@@ -1,0 +1,39 @@
+/* .jumbotron {
+    background-image: url('../images/santri.jpg');
+    background-position: top center;
+    background-size: cover;
+} */
+
+.bg-green {
+    background-color: #0BC72A;
+}
+
+#kajianKoding .card:hover,
+#santrenKilat .card:hover {
+    box-shadow: 0 28px 36px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .22);
+    cursor: pointer;
+}
+
+.card-desc {
+    font-size: 14px;
+}
+
+#Mondok img:hover {
+    box-shadow: 0 28px 36px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .22);
+}
+
+#Mondok img {
+    width: 30%;
+}
+
+blockquote p {
+    font-size: 17px;
+}
+
+#Sponsor .col-12 img {
+    width: 33%;
+}
+
+#Sponsor img {
+    height: 105px;
+} 
